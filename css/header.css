@@ -108,7 +108,7 @@
     margin-left: auto;
 }
 
-.header-menu-link.accent::after {
+.header-menu-link.current::after {
     content: '';
     position: absolute;
     left: 0;
@@ -120,6 +120,6 @@
     background-color: #404bbf;
 }
 
-.header-menu-link.accent {
+.header-menu-link.current {
     color: #404bbf;
 }
