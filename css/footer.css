@@ -52,6 +52,7 @@
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #fff;
+    margin-bottom: 16px;
 }
 
 .footer-social-list {
@@ -59,7 +60,7 @@
     align-items: center;
     justify-content: flex-start;
     flex-direction: row;
-    gap: 24px;
+    gap: 16px;
     width: 232px;
     height: 40px;
 }
@@ -85,7 +86,7 @@
 
 .footer-social-link:hover,
 .footer-social-link:focus {
-    background-color: #404bbf;
+    background-color: #31d0aa;
 }
 
 .footer-social-icon {

@@ -106,6 +106,6 @@
     transition-property: transform;    
 }
 
-.portfolio-item:hover .overlay{
+.portfolio-item:hover .overlay-paragraph{
     transform: translateY(0%);
 }
